@@ -10,3 +10,16 @@ C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\W
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\WebMotors.Domain.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\ref\WebMotors.Domain.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\WebMotors.Domain.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\bin\Debug\net6.0\WebMotors.Domain.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\bin\Debug\net6.0\WebMotors.Domain.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\bin\Debug\net6.0\ref\WebMotors.Domain.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\bin\Debug\net6.0\WebMotors.Domain.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\WebMotors.Domain.GlobalUsings.g.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\WebMotors.Domain.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\WebMotors.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\WebMotors.Domain.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\WebMotors.Domain.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\WebMotors.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\WebMotors.Domain.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\ref\WebMotors.Domain.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain\obj\Debug\net6.0\WebMotors.Domain.pdb

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XYVKfCzFS6g2R4iOyL4TDibFiTg1tl+TdgjiaO/13dxfCIVALz+WY3fWZp9jnjy2KxbcY8YAiDQzdn9Qh3wVcw==",
+  "dgSpecHash": "0W19aLwypr7U9ljHQ2/BqRaaJWlr6F3fGE2T+GxtP5NP1NLPztx6vlVC6DYl3FyjB5TEHiEOiCZx0HbppxDrzQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Webmotors\\Webmotors-backend\\api-webmotors\\02 - BackEnd\\WebMotors.Domain\\WebMotors.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

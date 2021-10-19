@@ -16,3 +16,21 @@ C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\ref\WebMotors.Domain.Services.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\bin\Debug\net6.0\WebMotors.Domain.Services.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\bin\Debug\net6.0\WebMotors.Domain.Services.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\bin\Debug\net6.0\ref\WebMotors.Domain.Services.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\bin\Debug\net6.0\WebMotors.Domain.Services.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\bin\Debug\net6.0\WebMotors.Domain.Core.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\bin\Debug\net6.0\WebMotors.Domain.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\bin\Debug\net6.0\WebMotors.Domain.Core.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\bin\Debug\net6.0\WebMotors.Domain.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.GlobalUsings.g.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.csproj.CopyComplete
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\ref\WebMotors.Domain.Services.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.pdb

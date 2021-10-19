@@ -83,3 +83,14 @@ C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\ref\webApi.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.pdb
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.GlobalUsings.g.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\ref\webApi.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.pdb

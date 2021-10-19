@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xdHuI1yD03r09einOIKeocZxVxdijZV5agl/xcpH0nZzMxVnhQxxywrxHRsdPRitABzuWS919p9QH952N3Xv4w==",
+  "dgSpecHash": "XiVON9IKS/SDeBuBdNks0DpYh66wlrZ+zfbsC9gBt1kV0zGYxach82zRAHNGS6u4EPbG/niWoESr+3H5ARbsGQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Webmotors\\Webmotors-backend\\api-webmotors\\02 - BackEnd\\WebMotors.InfraStructure.Ioc\\WebMotors.InfraStructure.Ioc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.11\\microsoft.entityframeworkcore.5.0.11.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.11\\microsoft.entityframeworkcore.analyzers.5.0.11.nupkg.sha512",

@@ -16,3 +16,20 @@ C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorrup
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\ref\WebMotors.InfraStructure.AntiCorruption.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\bin\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\bin\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\bin\Debug\net6.0\ref\WebMotors.InfraStructure.AntiCorruption.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\bin\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\bin\Debug\net6.0\WebMotors.Domain.Core.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\bin\Debug\net6.0\WebMotors.Domain.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\bin\Debug\net6.0\WebMotors.Domain.Core.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\bin\Debug\net6.0\WebMotors.Domain.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.GlobalUsings.g.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\ref\WebMotors.InfraStructure.AntiCorruption.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\obj\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.pdb

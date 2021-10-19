@@ -22,3 +22,27 @@ C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\De
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\WebMotors.InfraStructure.Ioc.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\ref\WebMotors.InfraStructure.Ioc.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\WebMotors.InfraStructure.Ioc.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.InfraStructure.Ioc.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.InfraStructure.Ioc.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\ref\WebMotors.InfraStructure.Ioc.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.InfraStructure.Ioc.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.Domain.Core.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.Domain.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.Domain.Services.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.InfraStructure.Data.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.Domain.Core.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.Domain.Services.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.InfraStructure.AntiCorruption.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.InfraStructure.Data.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\bin\Debug\net6.0\WebMotors.Domain.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\WebMotors.InfraStructure.Ioc.GlobalUsings.g.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\WebMotors.InfraStructure.Ioc.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\WebMotors.InfraStructure.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\WebMotors.InfraStructure.Ioc.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\WebMotors.InfraStructure.Ioc.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\WebMotors.InfraStructure.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\WebMotors.InfraStructure.Ioc.csproj.CopyComplete
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\WebMotors.InfraStructure.Ioc.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\ref\WebMotors.InfraStructure.Ioc.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\Webmotors\Webmotors-backend\api-webmotors\02 - BackEnd\WebMotors.InfraStructure.Ioc\obj\Debug\net6.0\WebMotors.InfraStructure.Ioc.pdb

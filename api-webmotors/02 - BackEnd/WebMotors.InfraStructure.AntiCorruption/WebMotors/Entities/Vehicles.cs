@@ -1,6 +1,6 @@
 ﻿namespace WebMotors.InfraStructure.AntiCorruption.WebMotors.Entities
 {
-    internal class Vehicles
+    public class Vehicles
     {
         public int Id { get; set; }
         public string? Make { get; set; }
